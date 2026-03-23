@@ -49,7 +49,8 @@ python Cartoon_Rendering_KHJ.py [이미지 경로]
 
 | 원본 | 만화 변환 |
 |------|-----------|
-| ![원본](Saved/bad_example.png) | ![만화](Saved/bad_example_cartoon.png) |
+| ![원본](<img width="500" height="500" alt="input" src="https://github.com/user-attachments/assets/ae281ff5-5096-4eb9-8e45-f6517bc730cc" />) | ![만화](Saved/bad_example_cartoon.png) |
+
 
 - 풀밭, 머리카락, 나뭇잎 등 **반복 텍스처** 영역에서 엣지가 과도하게 검출됨
 - 그라데이션이 많은 하늘/일몰 사진에서 부자연스러운 경계 발생
